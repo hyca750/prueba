@@ -4,3 +4,8 @@ body {
     text-align: center;
     color: blue;
 }
+
+.cabecera {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: red;
+}
