@@ -5,7 +5,11 @@ body {
     color: blue;
 }
 
+<<<<<<< HEAD
 .cabecera {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+=======
+footer {
+>>>>>>> cabecera
     color: red;
 }
